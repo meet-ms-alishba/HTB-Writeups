@@ -1,5 +1,5 @@
-
+Hack the box Journey
 
 | Challenge | Difficulty | Key Technique |
 |---|---|---|
-| [Juche Loyalty Evaluation](crackmes/juche_loyalty_evaluation/writeup.md) | 1.2 | Anti-debug check, cin truncation bug, memory patch |
+| [Reactor](Challenges/Reactor/writeup.md) | Easy | DB dump + hash crack, CVE-2025-55182 RCE, SSH tunneling, Node Inspector privesc |
