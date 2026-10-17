@@ -8,3 +8,4 @@ Hack the box Journey
 | [Cohort](Machines/Cohort/writeup.md) | Easy | SSRF(Server Side Request Forgery), Marimo exploit (CVE-2026-39987), Pack2TheRoot (Time-of-Check to Time-of-Use (**TOCTOU**) |
 | [Exatlon](Challenges/Exatlon/writeup.md) | Easy | Encoding, unpacking, bitwise shift |
 | [Connected](Machines/Connected/writeup.md) | Easy | FreeBPX SQLi vulnerability, RCE (Remote Code Execution), privesec via writable files |
+| [Arno.](Challenges/Arno/writeup.md) | Easy | Symmetric encryption, CWE-321 (Hardcoded Cryptographic Key), CWE-798 (Hardcoded Credentials) |
