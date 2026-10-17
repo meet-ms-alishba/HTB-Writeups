@@ -1,7 +1,7 @@
 Hack the box Journey
 
 | Challenge | Difficulty | Category | Key Technique |
-|---|---|---|
+|---|---|---|---|
 | [Reactor](Machines/Reactor/writeup.md) | Easy | Reversing| DB dump + hash crack, CVE-2025-55182 RCE, SSH tunneling, Node Inspector privesc |
 | [Paperwork](Machines/paperwork/writeup.md) | Easy | Reversing | Path traversal, Command Injection, File descriptor leakage |
 | [HILariouse](Challenges/HILariouse/writeup.md) | Medium | Reversing | crypto/reversing, XOR key + HIL cipher, FVN-1a hash reversing |
